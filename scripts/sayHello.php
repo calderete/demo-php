@@ -4,7 +4,7 @@
 	</head>
 
 	<body>
-		<div id="header"><h1>PHP & Mysql: the missing manual</h1></div>
+		<div id="header"><h1>PH-Phun: Charlie is writing PHP</h1></div>
 		<div id="example">Example 2-1</div>
 		<div id="content">
 			<h1>Hello <?php echo $_REQUEST['name']; ?></h1>
