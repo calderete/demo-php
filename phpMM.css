@@ -87,7 +87,7 @@ a:hover {
 }
 
 div#footer {
-  background: #fff url('../images/tmm_php-mysql_footer.png') no-repeat top left;
+  background: #fff url('images/tmm_php-mysql_footer.png') no-repeat top left;
   height: 114px;
   left: 11px;
   position: relative;
