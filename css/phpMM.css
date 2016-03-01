@@ -1,10 +1,10 @@
 body {
-  background: #75bb45 url('mysql_background.png') repeat-y;
+  background: #75bb45 url('images/mysql_background.png') repeat-y;
   margin: 0 68px 0 68px;
 }
 
 div#header {
-  background: #fff url('mysql_banner.png') no-repeat top left;
+  background: #fff url('images/mysql_banner.png') no-repeat top left;
   height: 114px;
   left: 11px;
   position: relative;
@@ -17,7 +17,7 @@ div#header {
 }
 
 div#example {
-  background-image: url('mysql_example-arrow.png');
+  background-image: url('images/mysql_example-arrow.png');
   background-repeat: no-repeat;
   background-position: left top;
   color: #fff;
