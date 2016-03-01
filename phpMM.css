@@ -4,7 +4,7 @@ body {
 }
 
 div#header {
-  background: #fff url('mysql_banner.png') no-repeat top left;
+  background: #fff url('images/mysql_banner.png') no-repeat top left;
   height: 114px;
   left: 11px;
   position: relative;
